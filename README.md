@@ -13,6 +13,11 @@
 - Результат теста (p-value).
 - Вывод на основе полученного p-value, то есть интерпретацию результатов.
 
+Весь процесс анализа представлен в [отдельной тетрадке Jupiter Notebook](https://github.com/Velichko-Anna/analysis_of_book_service_activity/blob/main/hypothesis_testing.ipynb)
+
+*Проект носит учебный характер. Все исходные данные были изменены или удалены для защиты конфиденциальности.*
+
+
 
 
 
